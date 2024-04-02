@@ -105,19 +105,3 @@ export default App;
   //   },[])
 
   // React-Tailwind-Projects
-
-  // rmdir .git 
-  cd ..
-  git rm --cached my-app2
-  git rm -f --cached my-app2
-  git add my-app2
-  git commit -m "Added my-app2 to the project"
-  git push
-  git push origin main
-  git branch    
-  git push origin master
-  git remote -v
-  git remote add origin https://github.com/snehankpatil/React-Tailwind-Projects.git  
-  git push origin main       
-  git branch
-  git push origin master
